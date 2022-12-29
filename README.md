@@ -8,7 +8,7 @@
 https://white-board-js.netlify.app
 
 ## Layout web
-![js-whiteBoard](https://user-images.githubusercontent.com/65207104/207676479-3b05772f-20a9-412d-88cc-c6ed31973943.png)
+https://user-images.githubusercontent.com/65207104/209948312-da2dbbc1-82bb-451e-bb31-5cfe2345464d.mp4
 
 
 # Technologies used
